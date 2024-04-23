@@ -28,7 +28,7 @@ function Header() {
         <div id="nav_box" class="nav_box">
           <ul>
 
-            <li><Link to="/" class="link">Home</Link></li>
+            <li><Link to="/home" class="link">Home</Link></li>
             <li><Link to="/About" class="link" >About</Link></li>
             <li><Link to="/Portfolio" class="link" >Portfolio</Link></li>
             <li><Link to="/Contact" class="link" >Contact</Link></li>
