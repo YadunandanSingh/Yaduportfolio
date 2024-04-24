@@ -3,7 +3,7 @@ import './App.css';
 import Footer from './components/footer';
 import Header from './components/header';
 import React from 'react';
-import { Route,Routes,BrowserRouter } from 'react-router-dom';
+import { Route,Routes,HashRouter} from 'react-router-dom';
 import Home from './pages/home';
 import About from './pages/about';
 import Potfolio from './pages/potfolio'
@@ -12,17 +12,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <BrowserRouter>
+        <HashRouter>
         <Header />
         <Routes>
-          <Route path='/Home' element={<Home />} />
+          <Route path='/' element={<Home />} />
           <Route path='/About' element={<About />} />
           <Route path='/Portfolio' element={<Potfolio />}/>
           <Route path='/Contact' element={<Contact />}/>
         </Routes>
         
         <Footer />
-        </BrowserRouter>
+        </HashRouter>
       </header>
     </div>
   );
