@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Yaduportfolio/static/css/main.4cbfeb14.css",
-    "main.js": "/Yaduportfolio/static/js/main.6c5b7878.js",
+    "main.css": "/Yaduportfolio/static/css/main.2fa606b2.css",
+    "main.js": "/Yaduportfolio/static/js/main.e8cb09f1.js",
     "static/js/453.f66438e5.chunk.js": "/Yaduportfolio/static/js/453.f66438e5.chunk.js",
     "static/media/mypic.jpg": "/Yaduportfolio/static/media/mypic.2b9080697110b52a4bf1.jpg",
     "static/media/bgimg.jpg": "/Yaduportfolio/static/media/bgimg.0ebfbfe737641ef45995.jpg",
     "static/media/Screenshot from 2024-04-23 17-25-22.png": "/Yaduportfolio/static/media/Screenshot from 2024-04-23 17-25-22.dabd9d3794ef63cb95e6.png",
     "static/media/Screenshot from 2024-04-23 16-19-41.png": "/Yaduportfolio/static/media/Screenshot from 2024-04-23 16-19-41.58227cdb2f4e263c3b1d.png",
     "index.html": "/Yaduportfolio/index.html",
-    "main.4cbfeb14.css.map": "/Yaduportfolio/static/css/main.4cbfeb14.css.map",
-    "main.6c5b7878.js.map": "/Yaduportfolio/static/js/main.6c5b7878.js.map",
+    "main.2fa606b2.css.map": "/Yaduportfolio/static/css/main.2fa606b2.css.map",
+    "main.e8cb09f1.js.map": "/Yaduportfolio/static/js/main.e8cb09f1.js.map",
     "453.f66438e5.chunk.js.map": "/Yaduportfolio/static/js/453.f66438e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cbfeb14.css",
-    "static/js/main.6c5b7878.js"
+    "static/css/main.2fa606b2.css",
+    "static/js/main.e8cb09f1.js"
   ]
 }
