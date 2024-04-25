@@ -18,7 +18,7 @@ function Home() {
           </b>
         </div>
         <div class="wrk-itro-body">
-          <p >Hello World, I'm a Computer Programmer with an interest in Web Development,Competitive Programming, and
+          <p >Hello World, I'm a Computer Programmer with an interest in Web Development, Competitive Programming, and
             Data Science. I've been working as a Software Developer
             for the last 1 Years with self experience. Apart from my profession, I've a serious passion of teaching and spreading knowledge to mankind.</p>
         </div>
