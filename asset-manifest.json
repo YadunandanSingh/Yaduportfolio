@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Yaduportfolio/static/css/main.0c2eda5f.css",
+    "main.css": "/Yaduportfolio/static/css/main.98406929.css",
     "main.js": "/Yaduportfolio/static/js/main.c1441310.js",
     "static/js/453.f66438e5.chunk.js": "/Yaduportfolio/static/js/453.f66438e5.chunk.js",
     "static/media/mypic.jpg": "/Yaduportfolio/static/media/mypic.2b9080697110b52a4bf1.jpg",
@@ -15,12 +15,12 @@
     "static/media/Screenshot from 2024-04-23 16-19-41.png": "/Yaduportfolio/static/media/Screenshot from 2024-04-23 16-19-41.58227cdb2f4e263c3b1d.png",
     "static/media/archpoint.png": "/Yaduportfolio/static/media/archpoint.1cd05e5f45881b11ebc4.png",
     "index.html": "/Yaduportfolio/index.html",
-    "main.0c2eda5f.css.map": "/Yaduportfolio/static/css/main.0c2eda5f.css.map",
+    "main.98406929.css.map": "/Yaduportfolio/static/css/main.98406929.css.map",
     "main.c1441310.js.map": "/Yaduportfolio/static/js/main.c1441310.js.map",
     "453.f66438e5.chunk.js.map": "/Yaduportfolio/static/js/453.f66438e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c2eda5f.css",
+    "static/css/main.98406929.css",
     "static/js/main.c1441310.js"
   ]
 }
